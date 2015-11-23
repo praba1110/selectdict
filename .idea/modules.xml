@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SelectDict.iml" filepath="$PROJECT_DIR$/SelectDict.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/selectdict.iml" filepath="$PROJECT_DIR$/selectdict.iml" />
     </modules>
   </component>
 </project>

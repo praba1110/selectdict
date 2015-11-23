@@ -31,7 +31,7 @@ import javax.xml.parsers.DocumentBuilderFactory;
  */
 public class HeadLayer extends View
 {
-    String auth_key = "0dfa24e6-eacf-4f83-b52a-52d477a66a60";
+    String auth_key = Keys.authkey;
     String text_key = "?key="+auth_key;
     String link_initial = "http://www.dictionaryapi.com/api/v1/references/collegiate/xml/";
     public String LOGGING = "LOGGING";
