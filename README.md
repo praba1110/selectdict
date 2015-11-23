@@ -1,10 +1,10 @@
 <h2>Select Dict</h2>
 <p>An app that returns the meaning of a word saved in clipboard, in facebook messenger style bubble.
-Download it here: <a href="http://spider.nitt.edu/~praba1110/links/comingsoon.php"</a></p>
+Download it <a href="http://spider.nitt.edu/~praba1110/links/comingsoon.php">here</a>.</p>
 
 <h3>Build instructions</h3>
 <ul>
-<li><code>git clone https://github.com/krishnarb3/selectdict</code><li>
+<li><code>git clone https://github.com/krishnarb3/selectdict</code></li>
 <li>Fork the repo</li>
 <li><code>git push</code>your code there</li>
 <li>Send a pull request</li>
